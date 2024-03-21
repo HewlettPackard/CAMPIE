@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "campie"
-version = "0.3.2"
+version = "0.4.0"
 description = "Python APIs to simulate various CAMs on GPUs at scale"
 readme = "README.md"
 authors = []
